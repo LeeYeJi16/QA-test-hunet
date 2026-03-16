@@ -69,13 +69,4 @@ npx playwright test --ui
 
 ![image](hunet2.png)
 
----
 
-## 목적
-
-이 프로젝트는 다음을 목적으로 작성되었습니다.
-
-* Playwright 기반 UI 테스트 자동화 구조 구현
-* Page Object Model 기반 테스트 코드 구성
-* QA 자동화 테스트 예제 프로젝트 작성
----
