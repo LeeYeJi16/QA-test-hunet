@@ -16,7 +16,7 @@
 2. 첫 번째 카드의 공유 아이콘 클릭
 3. 공유 메뉴 노출 확인
 4. 공유 옵션 중 **Link 버튼 클릭**
-
+<img src="hunet1.png" width="700">
 
 ---
 
@@ -66,6 +66,8 @@ UI 모드 실행
 ```
 npx playwright test --ui
 ```
+
+![image](hunet2.png)
 
 ---
 
